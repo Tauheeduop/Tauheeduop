@@ -105,7 +105,7 @@ KP Education Department (2017 - 2024)
 ## 🔗 Connect with Me
 
 - 📧 Email: tauheeduop@gmail.com  
-- 💼 LinkedIn: (add your link)  
+- 💼 LinkedIn: [(add your link)](https://www.linkedin.com/in/tauheed-ahmad-shah-76b957360/)  
 - 💻 GitHub: https://github.com/tauheeduop  
 
 ---
